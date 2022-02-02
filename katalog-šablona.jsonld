@@ -13,10 +13,10 @@
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "Jan Král",
-          "en": "Jan Kral"
+          "cs": "MŠMT",
+          "en": "MSMT"
         },
-        "e-mail": "mailto:jan.kral@msmt.cz"
+        "e-mail": "mailto:rejstrik@msmt.cz"
     },
     "domovská_stránka": "https://data.gov.cz",
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00022985",
