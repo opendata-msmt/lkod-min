@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-msmt/lkod-min/main/datové-sady/datová-sada.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-msmt/lkod-min/main/datové-sady/Číselník%20AKEN.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník AKEN"
